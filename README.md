@@ -27,6 +27,7 @@
 ### Tech Stack
   - TypeScript
   - React App
+  - ReactBootstrap
   - Vite
   - Nodejs
   - Express
